@@ -1,0 +1,6 @@
+sqlalchemy==1.4.19
+fastapi==0.65.2
+uvicorn==0.14.0
+starlette==0.14.2
+pydantic==1.8.2
+typing-extensions==3.10.0.0
